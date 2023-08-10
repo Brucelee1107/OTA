@@ -1,15 +1,16 @@
-Updated :
-  - gcc
-  - python3
-  - git
-  - vim
-  - wget
+packages :
+  updated :
+    - gcc
+    - python3
+    - git
+    - vim
+    - wget
 
-Ready_to_update :
-  - jq
-  - nginx
-  - apache2
-  - nano
-  - curl
-  - build-essential
+  Ready_to_update :
+    - jq
+    - nginx
+    - apache2
+    - nano
+    - curl
+    - build-essential
 
