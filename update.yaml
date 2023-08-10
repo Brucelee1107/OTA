@@ -1,13 +1,15 @@
-Name : 
-  - 'Dineshkumar'
+Updated :
+  - gcc
+  - python3
+  - git
+  - vim
+  - wget
 
-Age : 
-  - '23'
-
-Location : 
-  - 'Salem'
-
-Designation : 
-  - 'OS Developer'
-
+Ready_to_update :
+  - jq
+  - nginx
+  - apache2
+  - nano
+  - curl
+  - build-essential
 
