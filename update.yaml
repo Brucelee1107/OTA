@@ -1,9 +1,13 @@
-Name  : 'Dineshkumar'
+Name : 
+  - 'Dineshkumar'
 
-Age : '23'
+Age : 
+  - '23'
 
-Location : 'Salem'
+Location : 
+  - 'Salem'
 
-Designation : 'OS Developer'
+Designation : 
+  - 'OS Developer'
 
 
