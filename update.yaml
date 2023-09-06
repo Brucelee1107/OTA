@@ -6,7 +6,6 @@ packages:
     - vim
     - wget
   ready_to_update:
-    - keyboard
     - jq
     - nginx
     - apache2
